@@ -6,6 +6,8 @@
 
 ```
 git add .
+git push
+git commit
 ```
 
 # My Awesome Project
