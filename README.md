@@ -32,3 +32,12 @@ git pull
 git py -m venv .venv
 git push -m pip install requests
 ```
+
+## project_virtual_environment
+```shell
+git pull
+py -m venv .venv
+.venv\scripts\activate
+py -m pip install -r requirements.txt
+
+```
