@@ -1,22 +1,21 @@
 # datafun-03-analytics
 
-# Project 3
+## Create Project Virtual Environment
 
-## 3 Commands Used
+On Windows, create a project virtual environment in the .venv folder. 
+
+```shell
+
+py -m venv .venv
+.venv\Scripts\Activate
+py -m pip install -r requirements.txt
 
 ```
+
+## Git add and commit 
+
+```shell
 git add .
-git commit
-git push
-
+git commit -m "add .gitignore, cmds to readme"
+git push origin main
 ```
-
-# My Awesome Project
-
-Welcome to My Awesome Project! This project enables you to clone a project from GitHub.
-
-## Tasks performed
-
-chose a randome project to clone on VS code.
-
-

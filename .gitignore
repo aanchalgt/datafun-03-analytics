@@ -11,3 +11,6 @@ __pycache__/
 
 # macOS system files
 .DS_Store
+
+# DO NOT track virtual environment folder.
+.venv/
