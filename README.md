@@ -26,3 +26,9 @@ git add .
 git commit -m"Git Push Local Changes to Remote Repo"
 git push -u origin main
 ```
+## Git pull
+```shell
+git pull
+git py -m venv .venv
+git push -m pip install requests
+```
