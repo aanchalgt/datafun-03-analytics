@@ -14,3 +14,4 @@ __pycache__/
 
 # DO NOT track virtual environment folder.
 .venv/
+.vsode/
